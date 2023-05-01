@@ -12,7 +12,7 @@ import GoogleMaps
     FirebaseApp.configure()
 
     GeneratedPluginRegistrant.register(with: self)
-    GMSServices.provideAPIKey("AIzaSyB597RZ2OJ3RWdVkqyMiyCZOuRToiuVefU")
+    GMSServices.provideAPIKey("")
 
     if #available(iOS 10.0, *) {
       UNUserNotificationCenter.current().delegate = self
