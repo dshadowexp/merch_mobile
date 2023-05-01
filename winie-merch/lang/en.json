@@ -1,0 +1,61 @@
+{
+    "register": "register",
+    "verify": "verify",
+    "logout": "logout",
+    "checkout": "checkout",
+
+    "account": "Account",
+    "registration": "Registration",
+    "enterPhoneNumber": "enter your phone number",
+    "changeCountryCode": "change country code",
+
+    "verification": "SMS Verification",
+    "verificationText": "Please type the 6-digit verification code sent to your phone number:",
+    "resendSMS": "Resend SMS",
+
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "phoneNumber": "Phone Number",
+    "accountType": "Account Type",
+    "valuedCustomer": "Valued Customer",
+
+    "noFeed": "Welcome To Stream Shopping",
+    "feedTypeStreamed": "streamed a review",
+    "feedTypeShopped": "shopped at",
+
+    "search": "Search",
+    "categories": "Categories",
+
+    "noPosts": "Complete Orders To Stream",
+
+    "noOrders": "No Orders Yet",
+    "processingOrder": "Processing",
+    "ongoingOrder": "Ongoing",
+    "deliveredOrder": "Delivered",
+    "completedOrder": "Completed",
+    "noProcessingOrders": "No Processing Orders",
+    "noOngoingOrders": "No Ongoing Orders",
+    "noDeliveredOrders": "No Delivered Orders",
+    "noCompletedOrders": "No Completed Orders",
+
+    "yourCart": "Your Cart",
+    "subTotal": "SubTotal",
+    "deliveryCost": "Delivery Cost",
+    "taxSales": "Tax Sales",
+    "total": "Total",
+    "fillCart": "Fill Up Your Cart",
+    "swipeLeft": "Swipe Left",
+    "swipeRight": "Swipe Right",
+    "tapEdit": "Tap to Edit",
+
+    "price": "price",
+    "quantity": "quantity",
+
+    "accountDetails": "Account Details",
+    "accountActions": "Account Actions",
+    "regularAccount": "Regular",
+    "premiumAccount": "Premium",
+
+    "inviteFriendsAndFamily": "Invite a friend and earn credits"
+}

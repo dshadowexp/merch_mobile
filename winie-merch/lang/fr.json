@@ -1,0 +1,61 @@
+{
+    "register": "s'inscrire",
+    "verify": "vérifier",
+    "logout": "se déconnecter",
+    "checkout": "check-out",
+
+    "account": "Compte",
+    "registration": "Enregistrement",
+    "enterPhoneNumber": "entrez votre numéro de téléphone",
+    "changeCountryCode": "changer le code du pays",
+
+    "verification": "Vérification Par SMS",
+    "verificationText": "Veuillez saisir le code de vérification à 6-chiffres envoyé à votre numéro de téléphone:",
+    "resendSMS": "Renvoyer des SMS",
+ 
+    "gender": "Sexe",
+    "male": "Mâle",
+    "female": "Femelle",
+    "phoneNumber": "Numéro De Téléphone",
+    "accountType": "Type De Compte",
+    "valuedCustomer": "Précieux Client",
+
+    "noFeed": "Bienvenue sur Stream Shopping",
+    "feedTypeStreamed": "diffusé avis",
+    "feedTypeShopped": "magasiné chez",
+
+    "search": "Chercher",
+    "categories": "Catégories",
+
+    "noPosts": "Commandes Complètes à Diffuser",
+
+    "noOrders": "Pas Encore De Commandes",
+    "processingOrder": "En traitement",
+    "ongoingOrder": "En cours",
+    "deliveredOrder": "Livré",
+    "completedOrder": "Terminé",
+    "noProcessingOrders": "Pas De Traitement Des Commands",
+    "noOngoingOrders": "Aucune Commande En Cours",
+    "noDeliveredOrders": "Pas De Commandes Livrées",
+    "noCompletedOrders": "Aucune Commande Terminée",
+
+    "yourCart": "Votre Panier",
+    "subTotal": "Sub-Totale",
+    "deliveryCost": "Frais de Port",
+    "taxSales": "Ventes Fiscales",
+    "total": "Totale",
+    "fillCart": "Remplissez Votre Panier",
+    "swipeLeft": "Glissez vers la gauche",
+    "swipeRight": "Glissez vers la droite",
+    "tapEdit": "Appuyez pour modifier",
+
+    "price": "prix",
+    "quantity": "quantité",
+
+    "accountDetails": "Détails Du Compte",
+    "accountActions": "Actions De Compte",
+    "regularAccount": "Ordinaire",
+    "premiumAccount": "Prime",
+
+    "inviteFriendsAndFamily": "Invitez Vos Amis et Votre Famille"
+}

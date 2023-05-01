@@ -1,0 +1,89 @@
+name: winie_merch
+description: Retail Selling Application
+
+publish_to: 'none'
+
+version: 1.0.3
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  animations: ^2.0.0
+  auto_route: ^2.2.0
+  cached_network_image: ^3.0.0
+  cloud_firestore: ^2.3.0
+  country_list_pick: ^1.0.1+5
+  crypto: ^3.0.1
+  dartz: ^0.10.0
+  dots_indicator: ^2.0.0
+  firebase_analytics: ^8.1.2
+  firebase_auth: ^1.4.1
+  firebase_core: ^1.3.0
+  firebase_dynamic_links: ^2.0.6
+  firebase_messaging: ^10.0.2
+  firebase_storage: ^8.1.3
+  flutter:
+    sdk: flutter
+  flutter_absolute_path: ^1.0.6
+  flutter_animarker: ^3.2.0
+  flutter_bloc: ^7.0.1
+  flutter_feather_icons: ^2.0.0+1
+  flutter_local_notifications: ^6.0.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_image: ^0.0.6
+  flutter_native_splash: ^1.2.1
+  flutter_polyline_points: ^1.0.0
+  flutter_signin_button: ^2.0.0
+  flutter_svg: ^0.22.0
+  font_awesome_flutter: ^9.1.0
+  freezed_annotation: ^0.14.2
+  geocoder: ^0.2.1
+  geoflutterfire: ^3.0.1
+  geolocator: ^7.0.3
+  get_it: ^7.1.3
+  google_fonts: ^2.1.0
+  google_maps_flutter: ^2.0.6
+  google_sign_in: ^5.0.5
+  http: ^0.13.3
+  image_picker: ^0.8.3+3
+  injectable: ^1.4.1
+  intl: ^0.17.0
+  introduction_screen: ^2.1.0
+  json_annotation: ^4.0.1
+  masked_controller: ^1.0.1
+  percent_indicator: ^3.0.1
+  permission_handler: ^8.1.1
+  pin_code_fields: ^7.3.0
+  progress_indicators: ^1.0.0
+  rate_my_app: ^1.1.0+1
+  share: ^2.0.4
+  shimmer: ^2.0.0
+  sign_in_with_apple: ^3.0.0
+  timeline_tile: ^2.0.0
+  url_launcher: ^6.0.7
+  uuid: ^3.0.4
+
+dev_dependencies:
+  auto_route_generator: ^2.1.0
+  build_runner: ^2.0.6
+  flutter_test:
+    sdk: flutter
+  freezed: ^0.14.2
+  injectable_generator: ^1.4.1
+  json_serializable: ^4.1.3
+
+flutter_native_splash:
+  image: assets/images/iconLogo.png
+  color: "48A14D"
+  android_disable_fullscreen: false
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/lang/
+    - assets/images/
+    - assets/gifs/
+    - assets/map/

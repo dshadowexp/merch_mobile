@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "942948436670",
+    "firebase_url": "https://winie-merch.firebaseio.com",
+    "project_id": "winie-merch",
+    "storage_bucket": "winie-merch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942948436670:android:b4f823a8ac0c37298e2cef",
+        "android_client_info": {
+          "package_name": "com.winie.custo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942948436670-8a0p1drua2sgc919hceb94v7uvjth9pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winie.custo",
+            "certificate_hash": "6bf06f88a39c4ad08cecca4738799c4c0611d511"
+          }
+        },
+        {
+          "client_id": "942948436670-j5ooaadc20nv01qkdrh79k05enrkqjl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winie.custo",
+            "certificate_hash": "5b447c65427c077fe3dd2b02365add53050e821e"
+          }
+        },
+        {
+          "client_id": "942948436670-a72m7gst8hhjdmhjv97c1u3lttrhu25r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QB0Hb7ymJfvYmqjtbjT9cKMxu_3NvXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942948436670-a72m7gst8hhjdmhjv97c1u3lttrhu25r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942948436670-27is03nmrd3npveb10msg96u3jqpkpcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winie.custo",
+                "app_store_id": "1541533613"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942948436670:android:e65c15d0592bbd5f8e2cef",
+        "android_client_info": {
+          "package_name": "com.winie.merch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942948436670-ou9gbb6f6tmh489mca0unu6dv9h1hsnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winie.merch",
+            "certificate_hash": "73bb95b24044d06f4b2b6ce6e365a86e8b7cc9af"
+          }
+        },
+        {
+          "client_id": "942948436670-uv7cubo5n6t05k3k3mj3t5oli515d46u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winie.merch",
+            "certificate_hash": "e3ab77efc125ada5cca695cb9d9d3edd365a128f"
+          }
+        },
+        {
+          "client_id": "942948436670-a72m7gst8hhjdmhjv97c1u3lttrhu25r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QB0Hb7ymJfvYmqjtbjT9cKMxu_3NvXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942948436670-a72m7gst8hhjdmhjv97c1u3lttrhu25r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942948436670-27is03nmrd3npveb10msg96u3jqpkpcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winie.custo",
+                "app_store_id": "1541533613"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
